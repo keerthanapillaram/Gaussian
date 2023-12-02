@@ -44,7 +44,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]()
+![Alt text](Gaussian.png)
 
 
 ## Result:
