@@ -10,8 +10,10 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Algorithm
 1. Start the program
 2. import numpy as np
-3. Write the code without any errors
-4. End the program
+3. Get input from the user.
+4. Calculate the X0,X1 and X2 values by Gaussian elimination
+5. print the values
+6. End the program
 
 ## Program:
 ```
